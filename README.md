@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **web dev**
+ 🔭 I’m currently working on **DSA** and **web dev** 
  
  🌱 I’m currently learning at**Adama Science And Technology University*
 
